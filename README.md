@@ -1,4 +1,4 @@
-# MulesoftSqliteMovie ,NJC’s flagship Internship program
+# Solution for MulesoftSqliteMovie ,NJC’s flagship Internship program
 create a database, store interesting movie names with the names of lead actor, actress, year of release and the director name and then use java to retrieve the details.
 
 Steps Done : Creating a new SQLite database – create a new SQLite database from a Java using SQLiteJDBC driver or related driver.
